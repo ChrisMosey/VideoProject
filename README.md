@@ -7,5 +7,5 @@ REQUIRES: ffmpeg
 3) hit submit
 
 notes:
-  only takes .mp4 files
+  only takes .mp4 files, 
   only grabs the first frame for the thumbnail
